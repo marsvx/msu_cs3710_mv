@@ -55,3 +55,4 @@
 # MAC OS
 .DS_Store
 Thumbs.db
+open ~/.ssh/configgit push origin main
